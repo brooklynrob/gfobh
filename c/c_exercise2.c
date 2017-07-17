@@ -1,7 +1,14 @@
 /* C - Exercise 2 */
 
-/* Based on https://www.hackerrank.com/challenges/fp-solve-me-first
-- "Solve Me First FP" */
+/*
+		Inspired and based on ...
+		https://www.hackerrank.com/challenges/fp-solve-me-first
+		- "Solve Me First FP"
+*/
+
+/*	Compile with command such as
+		gcc -o c_exercise2 c_exercise2.c
+*/
 
 #include <stdio.h>
 
