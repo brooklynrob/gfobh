@@ -1,8 +1,12 @@
 # README.md for gfobh
 
-## Background
-
 ## Inspiration
+The following sites are sources (with attribution and credit cited in line) for various exercises found here / to be created here:
+* [OCaml 99 Problems](https://ocaml.org/learn/tutorials/99problems.html) which is inspired by
+* [Ninety-Nine Haskell Problems](https://wiki.haskell.org/H-99:_Ninety-Nine_Haskell_Problems), which was inspired by
+* [Ninety-Nine Lisp Problems](http://www.ic.unicamp.br/~meidanis/courses/mc336/2006s2/funcional/L-99_Ninety-Nine_Lisp_Problems.html), which was inspired by
+* [Prolog 99 Problems](https://sites.google.com/site/prologsite/prolog-problems)
+* [HackerRack](https://www.hackerrank.com/)
 
 ## Development Environment
 * I (brooklynrob) develop on Mac
@@ -12,6 +16,8 @@
 * Try to avoid use of libraries, especially non-standard libraries. For example as great as it is generally avoid using the core library for OCaml
 * Seek to be idiomatic to the specific language...
 * BUT, try and follow a functional style of programming whenever possible
+* "Program with Hand Tools" (See this [video](https://www.youtube.com/watch?v=ShEez0JkOFw&t=2416s) for more on what that's all about)
+*
 
 ## Languages
 The following languages are those for which exercises are built in rough order of likelihood I have or will do an exercise (i.e., nearly always there will be an example done in C and OCaml; nearly never will there be one for C++ or Haskell):
@@ -30,11 +36,11 @@ The following languages are those for which exercises are built in rough order o
 Generally I will [guide to git and branching](https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging)
 
 ## Markdown
-These notes are written in markdown. Here's a guide to [markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+These notes are written in markdown. Here's a guide to [markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) if you are not familiar with markdown.
 
 ## Language Notes
 ### JavaScript
-These exercises use node and ECMAScript 6
+These exercises use node to be run at a command line. Generally these exercises will use ECMAScript 6 and Babel.
 
 ### Swift
 * Similar to compiling C using gcc the -S switch can be used to generate the assembly code. For example this will generate assembly for exercise 2 and save it to a file called swift_exercise_2.asm:
