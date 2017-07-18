@@ -45,8 +45,8 @@ Take 2 numbers from STDIN (command line), sum them, and print the result (sum).
 * Inspiration: [HackerRank](https://www.hackerrank.com/challenges/fp-solve-me-first)
 ### Exercise 3 - Return the last element of a list
 * Inspiration:
-** OCaml Source: [99 Problems in OCaml](https://ocaml.org/learn/tutorials/99problems.html)
-** Haskell: [99 questions](https://wiki.haskell.org/99_questions/1_to_10)
+	* OCaml Source: [99 Problems in OCaml](https://ocaml.org/learn/tutorials/99problems.html)
+	* Haskell: [99 questions](https://wiki.haskell.org/99_questions/1_to_10)
 
 ## Language Notes
 ### JavaScript
