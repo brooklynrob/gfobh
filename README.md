@@ -38,6 +38,16 @@ Generally I will [guide to git and branching](https://git-scm.com/book/en/v2/Git
 ## Markdown
 These notes are written in markdown. Here's a guide to [markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) if you are not familiar with markdown.
 
+## Exercises
+### Exercise 1 - Hello World (Not Done Yet)
+### Exercise 2 - Sum Two Numbers
+Take 2 numbers from STDIN (command line), sum them, and print the result (sum).
+* Inspiration: [HackerRank](https://www.hackerrank.com/challenges/fp-solve-me-first)
+### Exercise 3 - Return the last element of a list
+* Inspiration:
+** OCaml Source: [99 Problems in OCaml](https://ocaml.org/learn/tutorials/99problems.html)
+** Haskell: [99 questions](https://wiki.haskell.org/99_questions/1_to_10)
+
 ## Language Notes
 ### JavaScript
 These exercises use node to be run at a command line. Generally these exercises will use ECMAScript 6 and Babel.
