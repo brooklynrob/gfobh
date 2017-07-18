@@ -37,5 +37,14 @@ These notes are written in markdown. Here's a guide to [markdown](https://github
 These exercises use node and ECMAScript 6
 
 ### Swift
+* Similar to compiling C using gcc the -S switch can be used to generate the assembly code. For example this will generate assembly for exercise 2 and save it to a file called swift_exercise_2.asm:
+`swiftc -S swift_exercise_2.swift > swift_exercise_2.asm`
+
+
 #### Resources
 * [Scripting and Compiling Swift on the Command Line](http://jblevins.org/log/swift)
+
+## Additional Resources
+### Git and Git Hub
+* <https://stackoverflow.com/questions/3876977/update-git-branches-from-master>
+* <https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging>
